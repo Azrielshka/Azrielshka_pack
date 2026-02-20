@@ -9,8 +9,8 @@ const char* password = "12341234";
 // Настройки MQTT
 const char* mqtt_server = "m9.wqtt.ru";
 const int mqtt_port = 19778;
-const char* mqtt_user = "u_DZPAWC";
-const char* mqtt_pass = "S6jnFzZS";
+const char* mqtt_user = "******C";
+const char* mqtt_pass = "******";
 const char* mqtt_topic_pub = "electro/wqtt/esp32/mes1"; // топик куда отправляем
 const char* mqtt_topic_sub = "electro/wqtt/esp32/led";  // топик откуда принимаем
 
