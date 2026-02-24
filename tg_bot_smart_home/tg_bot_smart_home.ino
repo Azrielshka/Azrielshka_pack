@@ -3,7 +3,7 @@
 #include <ESP32Servo.h>
 #include <TroykaDHT.h>
 
-#define BOT_TOKEN "7781093283:AAF7-1K0jWBGKdkmDMualAmimnS2pGPRysI"
+#define BOT_TOKEN "7781093283:AAF7*1K0jWBGKdkmDMualAmimnS2pGPRysI"
 #define WIFI_SSID "login"
 #define WIFI_PASS "pass"
 #define CHAT_ID "YOUR_CHAT_ID"  // Добавьте ваш CHAT_ID
