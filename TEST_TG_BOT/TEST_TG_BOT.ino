@@ -2,8 +2,8 @@
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
 #define WIFI_SSID "CPOD"
-#define WIFI_PASSWORD "ApoX51s42wR7FDK8"
-#define BOT_TOKEN "8168116108:AAG9vkGcdOqP1ukzbrXh6CS8WrR7SXrEohQ"
+#define WIFI_PASSWORD "**"
+#define BOT_TOKEN "**"
 
 const unsigned long BOT_MTBS = 1000; // время обновления
 WiFiClientSecure secured_client;
